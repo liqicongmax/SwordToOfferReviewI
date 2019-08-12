@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088996bb-c780-4145-b1c1-c87e168cb7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extra/SingleInstace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/丑数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉搜索树和双向链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉树中和为某一值的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/字符串的排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/层序遍历二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/把数组排成最小的数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/数组中出现超过一半的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/最小的K个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/求1到n中整数1出现的次数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/连续子数组的最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/niuke/从上往下层序遍历二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/niuke/从上往下层序遍历二叉树.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -95,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+            <state relative-caret-position="-1">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/niuke/数组中的逆序对.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -155,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/niuke/把数组排成最小的数.java" />
         <option value="$PROJECT_DIR$/src/niuke/丑数.java" />
         <option value="$PROJECT_DIR$/src/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" />
       </list>
     </option>
   </component>
@@ -207,7 +204,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565608504839" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565609511800" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -224,9 +221,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.数组中的逆序对">
     <configuration name="二维数组中的查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niuke.二维数组中的查找" />
+      <module name="SwordToOfferReviewI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niuke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中的逆序对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.数组中的逆序对" />
       <module name="SwordToOfferReviewI" />
       <extension name="coverage">
         <pattern>
@@ -292,6 +302,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.数组中的逆序对" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SingleInstace" />
         <item itemvalue="Application.斐波那契数列的第N项" />
@@ -311,7 +322,7 @@
       <updated>1565077396838</updated>
       <workItem from="1565077399042" duration="16777000" />
       <workItem from="1565138009829" duration="3169000" />
-      <workItem from="1565578482974" duration="15955000" />
+      <workItem from="1565578482974" duration="16906000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1565077450992</created>
@@ -341,11 +352,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565099170791</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="剑指offer重刷I到逆序对了">
+      <created>1565608564528</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565608564528</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35901000" />
+    <option name="totallyTimeSpent" value="36852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -388,7 +406,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一题二维数组中的查找" />
     <MESSAGE value="xxx" />
-    <option name="LAST_COMMIT_MESSAGE" value="xxx" />
+    <MESSAGE value="剑指offer重刷I到逆序对了" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer重刷I到逆序对了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -710,8 +729,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        <state relative-caret-position="-1">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/数组中的逆序对.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="47" column="59" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
         </state>
       </provider>
     </entry>
