@@ -1,5 +1,7 @@
 package sort;
 
+import java.util.Arrays;
+
 /**
  * @author liqicong@myhexin.com
  * @date 2019/8/13 10:06
@@ -35,5 +37,11 @@ public class HeapSort {
             arr[i]=temp;
             maxAdjust(arr,0,i);//0位置上的根节点必然是当前堆中最大的值,所以放到末尾,然后对数组长度-1的数组进行重新构建堆,生成一个新的大顶堆,继续下一轮的排序
         }
+    }
+
+    public static void main(String[] args){
+        int[] arr={3,4,1,2,5};
+        new HeapSort().maxHeapSort(arr);
+        System.out.println(Arrays.toString(arr));
     }
 }
