@@ -10,7 +10,7 @@ public class 数组中的逆序对 {
         sort(arr,0,arr.length-1);
         return count;
     }
-    private void sort(int[] arr,int start,int end){
+    public void sort(int[] arr,int start,int end){
         if(start==end){
             return;
         }
@@ -19,16 +19,15 @@ public class 数组中的逆序对 {
         sort(arr,mid+1,end);
         merge(arr,start,mid,end);
     }
-    private void merge(int[] arr,int start,int mid,int end){
+    public void merge(int[] arr,int start,int mid,int end){
         int[] temp=new int[end-start+1];
         int i=0;
         int p1=start;
         int p2=mid+1;
         while(p1<=mid&&p2<=end){
             if(arr[p1]>arr[p2]){
-                temp[i++]=arr[p2++];
                 count+=mid-p1+1;
-                count=count>1000000007?count%1000000007:count;
+                temp[i++]=arr[p2++];
             }else{
                 temp[i++]=arr[p1++];
             }
@@ -39,8 +38,8 @@ public class 数组中的逆序对 {
         while(p2<=end){
             temp[i++]=arr[p2++];
         }
-        for(int j=0;j<temp.length;j++){
-            arr[start+j]=temp[j];
+        for(int x=0;x<temp.length;x++){
+            arr[start+x]=temp[x];
         }
     }
     public static void main(String[] args){
