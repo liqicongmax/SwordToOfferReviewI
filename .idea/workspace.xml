@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088996bb-c780-4145-b1c1-c87e168cb7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/extra/RuntimeConstantPoolOOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extra/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉树的深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,14 +23,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的深度.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="379">
-              <caret line="27" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="27" selection-end-column="13" />
+            <state relative-caret-position="303">
+              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="531">
+              <caret line="31" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -105,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/extra/RuntimeConstantPoolOOM.java" />
         <option value="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" />
         <option value="$PROJECT_DIR$/src/niuke/二叉树的深度.java" />
+        <option value="$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java" />
       </list>
     </option>
   </component>
@@ -163,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565857990625" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565859578191" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -313,7 +320,7 @@
       <workItem from="1565697550295" duration="1448000" />
       <workItem from="1565699412753" duration="631000" />
       <workItem from="1565740060265" duration="2232000" />
-      <workItem from="1565854751481" duration="3099000" />
+      <workItem from="1565854751481" duration="4683000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1565077450992</created>
@@ -385,11 +392,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565671137620</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="二叉树的深度">
+      <created>1565858135950</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1565858135950</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54902000" />
+    <option name="totallyTimeSpent" value="56486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -437,7 +451,8 @@
     <MESSAGE value="堆排序复习" />
     <MESSAGE value="两个链表的公共节点" />
     <MESSAGE value="数字在排序数组中出现的次数" />
-    <option name="LAST_COMMIT_MESSAGE" value="数字在排序数组中出现的次数" />
+    <MESSAGE value="二叉树的深度" />
+    <option name="LAST_COMMIT_MESSAGE" value="二叉树的深度" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -813,11 +828,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的深度.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="27" column="13" selection-start-line="22" selection-start-column="12" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="303">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="31" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
