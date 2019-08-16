@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088996bb-c780-4145-b1c1-c87e168cb7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/和为S的两个数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/扑克牌顺子.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/数组中只出现一次的数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/数字在排序数组中出现的次数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="190">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -26,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的深度.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+            <state relative-caret-position="418">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -35,11 +38,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="31" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="304">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/数组中只出现一次的数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niuke/和为S的两个数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/niuke/扑克牌顺子.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="40" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -112,6 +151,10 @@
         <option value="$PROJECT_DIR$/src/niuke/数组中的逆序对.java" />
         <option value="$PROJECT_DIR$/src/niuke/二叉树的深度.java" />
         <option value="$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/src/niuke/数组中只出现一次的数字.java" />
+        <option value="$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java" />
+        <option value="$PROJECT_DIR$/src/niuke/和为S的两个数字.java" />
+        <option value="$PROJECT_DIR$/src/niuke/扑克牌顺子.java" />
       </list>
     </option>
   </component>
@@ -129,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,14 +207,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565859578191" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565947323709" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -187,22 +230,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.数组中的逆序对">
+  <component name="RunManager" selected="Application.和为S的连续整数序列">
     <configuration name="数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niuke.数字在排序数组中出现的次数" />
-      <module name="SwordToOfferReviewI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="niuke.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组中的逆序对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="niuke.数组中的逆序对" />
       <module name="SwordToOfferReviewI" />
       <extension name="coverage">
         <pattern>
@@ -240,12 +270,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="和为S的连续整数序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.和为S的连续整数序列" />
+      <module name="SwordToOfferReviewI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niuke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="extra.StaticTest" />
       <module name="SwordToOfferReviewI" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中的逆序对" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.数组中的逆序对" />
+      <module name="SwordToOfferReviewI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niuke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,7 +350,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.数组中的逆序对" />
+        <item itemvalue="Application.和为S的连续整数序列" />
         <item itemvalue="Application.RuntimeConstantPoolOOM" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.数字在排序数组中出现的次数" />
@@ -320,7 +376,9 @@
       <workItem from="1565697550295" duration="1448000" />
       <workItem from="1565699412753" duration="631000" />
       <workItem from="1565740060265" duration="2232000" />
-      <workItem from="1565854751481" duration="4683000" />
+      <workItem from="1565854751481" duration="7639000" />
+      <workItem from="1565917654046" duration="1984000" />
+      <workItem from="1565940525995" duration="6126000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1565077450992</created>
@@ -399,17 +457,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565858135950</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="判断是否为平衡二叉树">
+      <created>1565859621843</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1565859621843</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56486000" />
+    <option name="totallyTimeSpent" value="67552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19296375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19722815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -452,7 +517,8 @@
     <MESSAGE value="两个链表的公共节点" />
     <MESSAGE value="数字在排序数组中出现的次数" />
     <MESSAGE value="二叉树的深度" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树的深度" />
+    <MESSAGE value="判断是否为平衡二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="判断是否为平衡二叉树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,6 +550,18 @@
           <line>28</line>
           <properties />
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -659,13 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/从上往下层序遍历二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="28" column="22" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/层序遍历二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10">
@@ -798,13 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/extra/RuntimeConstantPoolOOM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/数组中的逆序对.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1">
@@ -821,15 +885,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/数字在排序数组中出现的次数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的深度.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+        <state relative-caret-position="418">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -838,8 +902,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/判断是否为平衡二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="31" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="304">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/数组中只出现一次的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/extra/RuntimeConstantPoolOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="48" lean-forward="true" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/从上往下层序遍历二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/和为S的连续整数序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/和为S的两个数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/扑克牌顺子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
