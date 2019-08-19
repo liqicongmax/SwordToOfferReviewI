@@ -20,9 +20,8 @@ public class 二叉树的中序遍历 {
                 stack.push(root);
                 root=root.left;
             }
-            root=stack.peek();
+            root=stack.pop();
             list.add(root.val);
-            stack.pop();
             root=root.right;
         }
         return  list;
