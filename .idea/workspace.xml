@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="088996bb-c780-4145-b1c1-c87e168cb7b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/niuke/TreeLinkNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/两个整数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉搜索树的第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/二叉树的下一个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/位运算加法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/删除链表中重复的节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/孩子们的游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/对称的二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/按之字型打印二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/数组中重复的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/滑动窗口的最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/矩阵中的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/链表中环的入口节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/机器人的运动范围.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,19 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/niuke/链表中环的入口节点.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/删除链表中重复的节点.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
+              <caret line="10" column="18" selection-start-line="9" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -49,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的下一个节点.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -58,7 +36,7 @@
         <entry file="file://$PROJECT_DIR$/src/niuke/对称的二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -66,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/按之字型打印二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="133">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/层序遍历二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,17 +77,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/滑动窗口的最大值.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="323">
               <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/矩阵中的路径.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="35" column="24" selection-start-line="18" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="171">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/niuke/机器人的运动范围.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+              <folding>
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1448#1449#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,8 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/niuke/矩形覆盖.java" />
         <option value="$PROJECT_DIR$/src/niuke/调整数组顺序使奇数位于偶数前面.java" />
         <option value="$PROJECT_DIR$/src/niuke/链表倒数第K个节点.java" />
         <option value="$PROJECT_DIR$/src/niuke/反转链表.java" />
@@ -202,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/niuke/二叉搜索树的第k个节点.java" />
         <option value="$PROJECT_DIR$/src/niuke/滑动窗口的最大值.java" />
         <option value="$PROJECT_DIR$/src/niuke/矩阵中的路径.java" />
+        <option value="$PROJECT_DIR$/src/niuke/机器人的运动范围.java" />
       </list>
     </option>
   </component>
@@ -219,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,14 +245,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566216270742" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566279323645" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -277,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StaticTest">
+  <component name="RunManager" selected="Application.机器人的运动范围">
     <configuration name="数字在排序数组中出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="niuke.数字在排序数组中出现的次数" />
       <module name="SwordToOfferReviewI" />
@@ -291,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.HeapSort" />
+    <configuration name="机器人的运动范围" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.机器人的运动范围" />
       <module name="SwordToOfferReviewI" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="niuke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,11 +388,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.机器人的运动范围" />
         <item itemvalue="Application.和为S的连续整数序列" />
         <item itemvalue="Application.RuntimeConstantPoolOOM" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.数字在排序数组中出现的次数" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +417,9 @@
       <workItem from="1565854751481" duration="7639000" />
       <workItem from="1565917654046" duration="1984000" />
       <workItem from="1565940525995" duration="6928000" />
-      <workItem from="1566181739569" duration="18562000" />
+      <workItem from="1566181739569" duration="18613000" />
+      <workItem from="1566261625678" duration="2160000" />
+      <workItem from="1566270424986" duration="4000000" />
     </task>
     <task id="LOCAL-00001" summary="xxx">
       <created>1565077450992</created>
@@ -519,17 +512,24 @@
       <option name="project" value="LOCAL" />
       <updated>1565947346306</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="2019/8/19剑指offer1刷结束">
+      <created>1566217449940</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1566217449940</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86916000" />
+    <option name="totallyTimeSpent" value="93127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,7 +538,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -574,7 +574,8 @@
     <MESSAGE value="二叉树的深度" />
     <MESSAGE value="判断是否为平衡二叉树" />
     <MESSAGE value="扑克牌顺子" />
-    <option name="LAST_COMMIT_MESSAGE" value="扑克牌顺子" />
+    <MESSAGE value="2019/8/19剑指offer1刷结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/8/19剑指offer1刷结束" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -623,16 +624,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/niuke/调整数组顺序使奇数位于偶数前面.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/链表倒数第K个节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -917,20 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/链表中环的入口节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/删除链表中重复的节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/TreeLinkNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -942,34 +919,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java">
+    <entry file="file://$PROJECT_DIR$/src/niuke/链表中环的入口节点.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/删除链表中重复的节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="9" selection-start-column="6" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的下一个节点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/对称的二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/按之字型打印二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="133">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -978,8 +959,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/层序遍历二叉树.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="14" column="23" lean-forward="true" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -995,15 +976,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/滑动窗口的最大值.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="323">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/二叉树的中序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/niuke/矩阵中的路径.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="35" column="24" selection-start-line="18" selection-start-column="4" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="171">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke/机器人的运动范围.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding>
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1448#1449#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
